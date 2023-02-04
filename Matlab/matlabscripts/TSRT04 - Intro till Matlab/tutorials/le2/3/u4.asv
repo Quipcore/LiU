@@ -1,0 +1,6 @@
+
+
+hold on
+curveplot(-25,25,3)
+curveplot(-25,25,10)
+hold off

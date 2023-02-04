@@ -1,0 +1,10 @@
+function meanvalue = avragegrade(student1,student2)
+% Function computing average grade for two students
+% Arguments: grades for student 1 and 2
+% Return values: Average grade.
+
+
+
+
+end
+

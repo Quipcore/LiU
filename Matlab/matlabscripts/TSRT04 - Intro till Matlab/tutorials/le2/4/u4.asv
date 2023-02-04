@@ -1,0 +1,11 @@
+x = 0:0.01:100;
+
+t = 0.1;
+
+
+
+div = exp(-t.*x)/sqrt(1-t.*t);
+y = 1-div.*sin(x.*sqrt(1-t.*t) + acos(t))
+
+
+plot(x,y)

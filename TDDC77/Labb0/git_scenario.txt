@@ -1,0 +1,33 @@
+git init 
+	Skapar ett nytt lokalt git repo
+git clone <SSH URL>
+	Hämtar hem ett remote repo
+git add
+	Lägger till ändringar och nya filer till commit
+git commit -m ””
+	Spara nya ändringar i det lokala repot. Med -m kan man även kommentera ändringarna som gjorts	
+git push
+	Uppdaterar remote repot med filerna som hittades i commit
+git pull
+	Hämtar hem den senaste versionen av ett remote repot
+git status
+	Visar status för lokala filer
+
+Person 1:
+	git init 
+	git clone <SSH URL>
+	git status
+	git add source_file.java
+	git status
+	git commit -m “Adding source_file.java“
+	git push origin main
+
+Person 2:
+	git clone <SSH URL> /git pull om git clone använts tidigare i samma mapp
+	git status
+	git add source_file.java
+	git status 
+	git commit -m “Added name and LiU id to source_file.java“
+	git push origin main
+Person 1:
+	git pull

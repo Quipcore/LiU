@@ -1,0 +1,19 @@
+cd ~
+
+mkdir codebase 
+cd codebase
+date > date.txt
+nano info.txt
+Fyll i givna uppgifter i nano-editor: 
+	Name: Elias
+	Family name: Bruno 
+	Name2: Felix
+	Family name: Lido
+Spara fil
+cd ..
+mkdir codebase_v2
+cd codebase
+cp date.txt info.txt ../codebase_v2/
+rm -r codebase
+
+

@@ -1,0 +1,16 @@
+cd: Flytta/byta mapp. Man kan lägga till längre filvägar samt andra instruktioner för att komma längre. Tex: Home, ~, ../"filväg". 
+ls: Lista innehåll i mapp. Skapa fil genom > "filnamn.filtyp".
+mv: Flytta eller byt namn på fil eller mapp.
+pwd: Skriver ut filväg.
+mkdir: Skapa mapp. Man kan skapa flera filer samtidigt genom att använda ett mellanslag som avskiljare.
+cat: Skriver ut innehåll i en fil i terminalen.
+echo: Skriver ut ett argument (det man skriver i terminalen efter kommandot) igen. Man kan använda > "filnamn.filtyp" för att lägga till argumentet i filen.
+*: Slå ihop filer. Om man skriver något före * (tex: t) så kommer alla filer med namn som börjar på det skrivna, i detta fall t. Avsluta med > "filnamn.filtyp" för att skapa sammanslagen fil.
+less: Se och röra dig (piltangenter) i en fil i terminalen. q avslutar.
+cp: Kopiera fil eller mapp.
+rm: Ta bort fil. Använd flagga -r för att ta bort allt i en fil eller mapp rekrusivt.
+rmdir: Ta bort mapp.
+wc: Räkna ord i en fil. Använd flagga -l för att endast räkna antal rader. 
+man: Manuellt sätt att se för att se rapport på upprepade rader.
+sort: Sortera filer för att använda man-kommandot.
+

@@ -1,0 +1,5 @@
+
+AVRASM ver. 2.2.8  D:\Code repositories\Skola\TSEA77\labb3\main.asm Fri May 13 08:32:51 2022
+
+[builtin](2): Including file 'D:/Programs\Microchip Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m16Adef.inc'
+D:\Code repositories\Skola\TSEA77\labb3\main.asm(46): error: syntax error, unexpected ''

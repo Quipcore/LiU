@@ -1,0 +1,10 @@
+f: z+ -> z+
+
+diceIntervallet 0 < tal < f(x)
+
+random ett tal. 
+Sätt f(x) = tal
+	f(tal)^-1 = x
+	använd inversen av funktionen f(x) för hitta x
+lös ut x 
+freq++ vid diceX(avrundat upp)

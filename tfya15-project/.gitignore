@@ -1,0 +1,7 @@
+/bin/
+*.iml
+.idea/
+.classpath
+.project
+.DS_STORE
+out/

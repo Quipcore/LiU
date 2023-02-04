@@ -1,0 +1,8 @@
+nattinatti:good night
+hund:dog
+katt:cat
+fågel:bird
+hej:hi
+hej:hello
+hej:hey
+godnatt:good night
